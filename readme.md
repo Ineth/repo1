@@ -2,4 +2,4 @@
 
 Master change
 
-Hello Github Collaboration
+Hello Github Collaborating
