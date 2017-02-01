@@ -1,5 +1,3 @@
 # Emty repo
 
-Master
-
-Dev change
+Dev
